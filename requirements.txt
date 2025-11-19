@@ -1,5 +1,5 @@
 telethon
 asyncio
-#sqlite3
+aiohttp
 python-dotenv
 logging
